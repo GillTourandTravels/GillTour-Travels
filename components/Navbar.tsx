@@ -15,7 +15,7 @@ const Navbar = () => {
           alt="logo"
           width={180}
           height={80}
-          className="rounded-md"
+          className="rounded-full"
         />
       </Link>
 
