@@ -8,7 +8,7 @@ export const NAV_LINKS = [
     key: "whatsapp ",
     label: "WhatsApp Us ",
   },
-  { href: "tel:+918894261663", key: "contact_us", label: "Contact Us" },
+  { href: "tel:+919218921595", key: "contact_us", label: "Contact Us" },
 ];
 
 // CAMP SECTION
@@ -73,8 +73,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "Admin Officer", value: "+91 8894261663" },
-    { label: "Email Officer", value: "gilltourandtravels.com@gmail.com" },
+    { label: "Admin Officer", value: "+91 9218921595" },
+    { label: "Email Officer", value: "lalitgillshimla@gmail.com" },
   ],
 };
 
